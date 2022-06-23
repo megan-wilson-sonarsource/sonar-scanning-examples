@@ -1,11 +1,11 @@
 # SonarQube-Scanner MSBuild CSharp Project
 
-This example demonstrates how to analyze a .NET Solution with the SonarScanner for MSBuild.
+This example demonstrates how to analyze a .NET Solution with the SonarScanner for MSBuild. Please review [cateogrization of product projects versus test projects](https://github.com/SonarSource/sonar-scanner-msbuild/wiki/Analysis-of-product-projects-vs.-test-projects) to ensure your CSharp project is scanned correctly.
 
 ## Prerequisites
 
 * [SonarQube](http://www.sonarqube.org/downloads/) 7.9+ LTS
-* [SonarScanner for MSBuild](http://docs.sonarqube.org/display/SCAN/Analyzing+with+SonarQube+Scanner+for+MSBuild) 4.1.0+
+* [SonarScanner for .NET](https://docs.sonarqube.org/latest/analysis/scan/sonarscanner-for-msbuild/) 4.1.0+
 * [SonarSource C# Plugin](http://redirect.sonarsource.com/plugins/csharp.html) 7.15+
 * [Compatible .NET Build Environment](https://docs.sonarqube.org/latest/analysis/scan/sonarscanner-for-msbuild/)
 
