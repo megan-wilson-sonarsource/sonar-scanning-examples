@@ -1,4 +1,4 @@
-# Megan's forked SonarQube Scanning Examples - Using as mock data
+# Megan's forked SonarQube Scanning Examples
 
 [SonarQube SonarScanner](https://docs.sonarqube.org/latest/analysis/scan/sonarscanner/) scanning and code coverage import examples for various languages and build tools.
 
